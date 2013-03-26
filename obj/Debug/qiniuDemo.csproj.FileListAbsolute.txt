@@ -10,3 +10,9 @@ G:\新建文件夹\qiniuDemo\qiniuDemo\bin\qiniuDemo.dll
 G:\新建文件夹\qiniuDemo\qiniuDemo\bin\qiniuDemo.pdb
 G:\新建文件夹\qiniuDemo\qiniuDemo\obj\Debug\qiniuDemo.dll
 G:\新建文件夹\qiniuDemo\qiniuDemo\obj\Debug\qiniuDemo.pdb
+D:\MDWork\Repository\test\qiniuDemo\bin\qiniuDemo.dll
+D:\MDWork\Repository\test\qiniuDemo\bin\qiniuDemo.pdb
+D:\MDWork\Repository\test\qiniuDemo\bin\QBox.pdb
+D:\MDWork\Repository\test\qiniuDemo\obj\Debug\ResolveAssemblyReference.cache
+D:\MDWork\Repository\test\qiniuDemo\obj\Debug\qiniuDemo.dll
+D:\MDWork\Repository\test\qiniuDemo\obj\Debug\qiniuDemo.pdb
