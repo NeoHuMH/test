@@ -1,0 +1,12 @@
+E:\MDWork\qiniuDemo\qiniuDemo\bin\qiniuDemo.dll
+E:\MDWork\qiniuDemo\qiniuDemo\bin\qiniuDemo.pdb
+E:\MDWork\qiniuDemo\qiniuDemo\obj\Debug\ResolveAssemblyReference.cache
+E:\MDWork\qiniuDemo\qiniuDemo\obj\Debug\qiniuDemo.dll
+E:\MDWork\qiniuDemo\qiniuDemo\obj\Debug\qiniuDemo.pdb
+E:\MDWork\qiniuDemo\qiniuDemo\bin\QBox.dll
+E:\MDWork\qiniuDemo\qiniuDemo\bin\QBox.pdb
+G:\新建文件夹\qiniuDemo\qiniuDemo\obj\Debug\ResolveAssemblyReference.cache
+G:\新建文件夹\qiniuDemo\qiniuDemo\bin\qiniuDemo.dll
+G:\新建文件夹\qiniuDemo\qiniuDemo\bin\qiniuDemo.pdb
+G:\新建文件夹\qiniuDemo\qiniuDemo\obj\Debug\qiniuDemo.dll
+G:\新建文件夹\qiniuDemo\qiniuDemo\obj\Debug\qiniuDemo.pdb
