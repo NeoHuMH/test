@@ -21,3 +21,8 @@ D:\MDWork\Repository\t2\bin\qiniuDemo.pdb
 D:\MDWork\Repository\t2\obj\Debug\ResolveAssemblyReference.cache
 D:\MDWork\Repository\t2\obj\Debug\qiniuDemo.dll
 D:\MDWork\Repository\t2\obj\Debug\qiniuDemo.pdb
+D:\MDWork\Repository\t3\bin\qiniuDemo.dll
+D:\MDWork\Repository\t3\bin\qiniuDemo.pdb
+D:\MDWork\Repository\t3\obj\Debug\ResolveAssemblyReference.cache
+D:\MDWork\Repository\t3\obj\Debug\qiniuDemo.dll
+D:\MDWork\Repository\t3\obj\Debug\qiniuDemo.pdb
